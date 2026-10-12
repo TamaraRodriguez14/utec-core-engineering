@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 for code in range(ord('a'), ord('z') + 1):
     if code != ord('q') and code != ord('e'):
-        print("{}".format(chr(code)), end="\n" if code == ord('z') else "")
+        print("{}".format(chr(code)), end="")
