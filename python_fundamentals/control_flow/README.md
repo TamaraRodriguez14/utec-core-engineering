@@ -10,3 +10,4 @@ Proyecto sobre flujo de control en Python: `if`, `elif`, `else`, operadores de c
 | `last_digit.py` | Imprime el último dígito (con signo) de un entero aleatorio y lo clasifica. |
 | `print_alphabt.py` | Imprime el alfabeto en minúsculas sin q ni e, usando un solo print. |
 | `print_hexa.py` | Imprime los números del 0 al 98 en decimal y hexadecimal. |
+| `print_comb2.py` | Imprime del 00 al 99 con dos dígitos, separados por coma y espacio. |
