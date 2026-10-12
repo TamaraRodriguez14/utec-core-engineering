@@ -7,3 +7,4 @@ Proyecto sobre flujo de control en Python: `if`, `elif`, `else`, operadores de c
 | Archivo | Descripción |
 |---|---|
 | `positive_or_negative.py` | Asigna un entero aleatorio a `number` e imprime si es positivo, cero o negativo. |
+| `last_digit.py` | Imprime el último dígito (con signo) de un entero aleatorio y lo clasifica. |
