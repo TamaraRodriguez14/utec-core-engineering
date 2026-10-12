@@ -9,3 +9,4 @@ Proyecto sobre flujo de control en Python: `if`, `elif`, `else`, operadores de c
 | `positive_or_negative.py` | Asigna un entero aleatorio a `number` e imprime si es positivo, cero o negativo. |
 | `last_digit.py` | Imprime el último dígito (con signo) de un entero aleatorio y lo clasifica. |
 | `print_alphabt.py` | Imprime el alfabeto en minúsculas sin q ni e, usando un solo print. |
+| `print_hexa.py` | Imprime los números del 0 al 98 en decimal y hexadecimal. |
