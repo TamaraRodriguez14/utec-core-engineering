@@ -11,3 +11,4 @@ Ejercicios sobre listas y otras estructuras de datos básicas de Python.
 | `replace_in_list.py` | Reemplaza el elemento en la posición `idx` por `element` y devuelve la lista. |
 | `print_matrix_integer.py` | Imprime una matriz de enteros, una fila por línea con los valores separados por un espacio. |
 | `add_tuple.py` | Suma dos tuplas posición a posición usando los dos primeros elementos (los faltantes cuentan como 0). |
+| `common_elements.py` | Devuelve un nuevo conjunto con los elementos presentes en ambos conjuntos. |
