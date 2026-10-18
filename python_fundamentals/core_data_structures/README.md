@@ -1,0 +1,9 @@
+# Python - Estructuras de datos básicas
+
+Ejercicios sobre listas y otras estructuras de datos básicas de Python.
+
+## Archivos
+
+| Archivo | Descripción |
+|---|---|
+| `print_list_integer.py` | Imprime todos los enteros de una lista, uno por línea. |
