@@ -10,3 +10,4 @@ Ejercicios sobre listas y otras estructuras de datos básicas de Python.
 | `element_at.py` | Devuelve el elemento en la posición `idx`, o `None` si el índice es negativo o está fuera de rango. |
 | `replace_in_list.py` | Reemplaza el elemento en la posición `idx` por `element` y devuelve la lista. |
 | `print_matrix_integer.py` | Imprime una matriz de enteros, una fila por línea con los valores separados por un espacio. |
+| `add_tuple.py` | Suma dos tuplas posición a posición usando los dos primeros elementos (los faltantes cuentan como 0). |
