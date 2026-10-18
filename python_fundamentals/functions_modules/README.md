@@ -18,3 +18,5 @@ Ejercicios sobre definición de funciones, valores de retorno, diferencia entre
 | `add.py` | Importa `add` desde `add_0.py` e imprime `1 + 2 = 3`. |
 | `calculator_1.py` | Define `add`, `sub`, `mul` y `div`. |
 | `calculation.py` | Importa las funciones de `calculator_1.py` e imprime las cuatro operaciones con `a = 10` y `b = 5`. |
+| `variable_load_5.py` | Define la variable `a = 98`. |
+| `variable_load.py` | Importa la variable `a` desde `variable_load_5.py` e imprime su valor. |
