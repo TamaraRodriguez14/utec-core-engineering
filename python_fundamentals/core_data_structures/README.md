@@ -13,3 +13,4 @@ Ejercicios sobre listas y otras estructuras de datos básicas de Python.
 | `add_tuple.py` | Suma dos tuplas posición a posición usando los dos primeros elementos (los faltantes cuentan como 0). |
 | `common_elements.py` | Devuelve un nuevo conjunto con los elementos presentes en ambos conjuntos. |
 | `update_dictionary.py` | Reemplaza el valor de una clave existente o agrega una nueva clave/valor al diccionario. |
+| `best_score.py` | Devuelve la clave con el valor entero más grande, o `None` si el diccionario es `None` o está vacío. |
