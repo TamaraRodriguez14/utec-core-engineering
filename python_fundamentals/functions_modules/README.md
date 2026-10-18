@@ -16,3 +16,5 @@ Ejercicios sobre definición de funciones, valores de retorno, diferencia entre
 | `test_import.py` | Importa `simple_add` para observar el comportamiento al importar. |
 | `add_0.py` | Define la función `add(a, b)`. |
 | `add.py` | Importa `add` desde `add_0.py` e imprime `1 + 2 = 3`. |
+| `calculator_1.py` | Define `add`, `sub`, `mul` y `div`. |
+| `calculation.py` | Importa las funciones de `calculator_1.py` e imprime las cuatro operaciones con `a = 10` y `b = 5`. |
