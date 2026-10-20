@@ -11,3 +11,4 @@ Ejercicios sobre manejo de errores con `try` / `except` en Python.
 | `safe_print_list_integers.py` | Imprime solo los enteros de los primeros `x` elementos y devuelve cuántos imprimió. |
 | `safe_print_division.py` | Divide dos enteros, imprime el resultado con `finally` y lo devuelve (o `None` si falla). |
 | `raise_exception.py` | Lanza una excepción `TypeError`. |
+| `raise_exception_msg.py` | Lanza una excepción `NameError` con un mensaje personalizado. |
