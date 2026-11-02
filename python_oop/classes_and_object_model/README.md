@@ -7,3 +7,4 @@ Ejercicios sobre clases, instancias, atributos, métodos y encapsulamiento en Py
 | `3-square.py` | `Square` con `size` validado y un método `area()` que devuelve el área. |
 | `4-square.py` | `Square` con getter y setter para `size` (validado en el setter) y `area()`. |
 | `5-square.py` | `Square` con getter/setter, `area()` y `my_print()` que dibuja el cuadrado con `#`. |
+| `6-square.py` | `Square` con `size` y `position` validados, `area()`, `my_print()` y `__str__`. |
