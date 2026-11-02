@@ -10,3 +10,4 @@ Ejercicios sobre herencia, sobrescritura de métodos y polimorfismo en Python.
 | `base_geometry.py` | Clase base `BaseGeometry` con `area()` no implementado e `integer_validator()`. |
 | `1-rectangle.py` | `Rectangle` que hereda de `BaseGeometry` y valida `width` y `height`. |
 | `2-rectangle.py` | `Rectangle` con `area()` implementado y `__str__`. |
+| `1-square.py` | `Square` que hereda de `Rectangle`, con `size` privado validado y `area()`. |
