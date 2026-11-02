@@ -8,3 +8,4 @@ Ejercicios sobre clases, instancias, atributos, métodos y encapsulamiento en Py
 | `4-square.py` | `Square` con getter y setter para `size` (validado en el setter) y `area()`. |
 | `5-square.py` | `Square` con getter/setter, `area()` y `my_print()` que dibuja el cuadrado con `#`. |
 | `6-square.py` | `Square` con `size` y `position` validados, `area()`, `my_print()` y `__str__`. |
+| `1-rectangle.py` | `Rectangle` con `width` y `height` privados, con getters y setters validados. |
